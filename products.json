@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "asin": "B07RPW4PSS",
+      "name": "Pioneer DJ DDJ-200",
+      "description": "Compact and lightweight DJ controller designed for learning fundamentals using rekordbox and other DJ apps.",
+      "image_url": "https://www.pioneerdj.com/-/media/pioneerdj/images/products/controllers/ddj-200/ddj-200-front.png",
+      "amazon_url": "https://www.amazon.com/dp/B07RPW4PSS",
+      "best_for": [
+        "Best for beginners",
+        "Best for portability"
+      ]
+    },
+    {
+      "asin": "B07RVB7D2K",
+      "name": "Numark Party Mix II",
+      "description": "Beginner-friendly DJ controller with built-in light effects for learning and casual home use.",
+      "image_url": "https://www.numark.com/images/sized/images/product_large/PartyMixII_3000x1875_web-624x390.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B07RVB7D2K",
+      "best_for": [
+        "Best for beginners",
+        "Best budget option"
+      ]
+    },
+    {
+      "asin": "B08V3Z5Z1Q",
+      "name": "Numark Mixtrack Pro FX",
+      "description": "Feature-rich entry-level controller with jog wheels and effects controls for developing DJ skills.",
+      "image_url": "https://www.numark.com/images/sized/images/product_large/MixtrackProFX_3000x1875_web-624x390.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B08V3Z5Z1Q",
+      "best_for": [
+        "Best all-rounder",
+        "Best for practice"
+      ]
+    },
+    {
+      "asin": "B07F8B5Q4Z",
+      "name": "Hercules DJControl Inpulse 300",
+      "description": "Beginner-focused DJ controller with built-in beatmatching guides and learning tools.",
+      "image_url": "https://www.hercules.com/media/product/287/djcontrol-inpulse-300-front.png",
+      "amazon_url": "https://www.amazon.com/dp/B07F8B5Q4Z",
+      "best_for": [
+        "Best for beginners",
+        "Best for learning"
+      ]
+    },
+    {
+      "asin": "B07F4FJH79",
+      "name": "Hercules DJControl Starlight",
+      "description": "Ultra-compact DJ controller ideal for travel, casual mixing, and learning DJ basics.",
+      "image_url": "https://www.hercules.com/media/product/274/djcontrol-starlight-front.png",
+      "amazon_url": "https://www.amazon.com/dp/B07F4FJH79",
+      "best_for": [
+        "Best for portability",
+        "Best budget option"
+      ]
+    }
+  ],
+  "updated": "2026-01-05 16:53 UTC",
+  "title": "Best DJ Controllers Under $300 (Beginner Shortlist)"
+}
