@@ -1,6 +1,30 @@
 {
   "products": [
     {
+      "asin": "B07YFB6P1K",
+      "name": "Numark Party Mix II",
+      "description": "Beginner-friendly DJ controller with party lights and simple layout \u2014 great for home use and learning the basics.",
+      "image_url": "https://www.numark.com/images/product_large/Numark_PartyMixMKII_angle_web.png",
+      "amazon_url": "https://www.amazon.com/dp/B07YFB6P1K",
+      "best_for": []
+    },
+    {
+      "asin": "B0B8S5YQ5Z",
+      "name": "Hercules DJControl Inpulse 300 MK2",
+      "description": "Well-rounded beginner controller with beatmatching guides and a layout that helps you build mixing skills quickly.",
+      "image_url": "https://www.hercules.com/wp-content/uploads/2022/12/DJCI300_MK2_Top-1-1400x968.jpg",
+      "amazon_url": "https://www.amazon.com/dp/B0B8S5YQ5Z",
+      "best_for": []
+    },
+    {
+      "asin": "B07F8F4YYH",
+      "name": "Hercules DJControl Starlight",
+      "description": "Ultra-compact DJ controller that\u2019s perfect for travel, casual mixing, and practicing DJ basics anywhere.",
+      "image_url": "https://www.hercules.com/wp-content/uploads/2018/09/Starlight_top.png",
+      "amazon_url": "https://www.amazon.com/dp/B07F8F4YYH",
+      "best_for": []
+    },
+    {
       "asin": "B08FF8VHNB",
       "name": "Numark Mixtrack Pro FX",
       "description": "A strong beginner controller with big jog wheels and FX paddles that make transitions feel easy.",
@@ -9,38 +33,14 @@
       "best_for": []
     },
     {
-      "asin": "B07YFB6P1K",
-      "name": "Numark Party Mix II",
-      "description": "Beginner-focused and fun, with built-in party lights \u2014 great for learning and casual house sets.",
-      "image_url": "https://cdn.inmusicbrands.com/numark/PartyMixII/pictures/overview/PartyMixII-angle-front.png",
-      "amazon_url": "https://www.amazon.com/dp/B07YFB6P1K",
-      "best_for": []
-    },
-    {
-      "asin": "B0B8S5YQ5Z",
-      "name": "Hercules DJControl Inpulse 300 MK2",
-      "description": "One of the best learning controllers: beatmatch guides and a layout that helps skills transfer later.",
-      "image_url": "https://www.hercules.com/wp-content/uploads/2022/06/DJControlInpulse300MK2_top.png",
-      "amazon_url": "https://www.amazon.com/dp/B0B8S5YQ5Z",
-      "best_for": []
-    },
-    {
-      "asin": "B07F8F4YYH",
-      "name": "Hercules DJControl Starlight",
-      "description": "Ultra-compact and travel-friendly. Ideal if you want something small for practice and portability.",
-      "image_url": "https://www.hercules.com/wp-content/uploads/2022/03/DJControlStarlight_top.png",
-      "amazon_url": "https://www.amazon.com/dp/B07F8F4YYH",
-      "best_for": []
-    },
-    {
       "asin": "B07NVNP554",
       "name": "Pioneer DJ DDJ-200",
-      "description": "Compact entry-level Pioneer layout. Best if you want a lightweight controller and simple practice setup.",
+      "description": "Compact entry-level Pioneer controller with a familiar layout for practice and easy integration with DJ apps.",
       "image_url": "https://www.prodj.com/cdn/shop/products/pioneer-dj-ddj-200-7_800x.jpg?v=1706503211",
       "amazon_url": "https://www.amazon.com/dp/B07NVNP554",
       "best_for": []
     }
   ],
-  "updated": "2026-01-05 17:15 UTC",
+  "updated": "2026-01-05 17:24 UTC",
   "title": "Best DJ Controllers Under $300 (Beginner-Friendly Picks)"
 }
